@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.20.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "ethers": "^6.11.1",
+    "gh-pages": "^6.1.1",
+    "hardhat-ethers": "^1.0.1"
+  }
+}
