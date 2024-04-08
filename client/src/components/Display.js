@@ -249,7 +249,7 @@ const Display = ({ contract, account }) => {
       }
     } catch (e) {
       console.error(e);
-      alert(e.message); 
+      alert("You don't have access"); 
       setData([]);
       return;
     }
